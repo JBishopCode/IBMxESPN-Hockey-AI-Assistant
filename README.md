@@ -7,6 +7,16 @@ Built for the **IBM SkillsBuild AI Experiential Learning Lab 2026** — Track #3
 
 ---
 
+## Demo
+
+📹 [Watch Demo Video](https://drive.google.com/file/d/1ThcykYirYRkTOLQf_2pdLCdxK43hY1Zr/view?usp=sharing)
+
+### Screenshots
+
+![Home Page](assets/home.png)
+![AI Analysis](assets/analysis.png)
+
+---
 ## Project Structure
 
 ```
